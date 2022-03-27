@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cd9ac85-fda6-ce94-9367-2bea556c354b
 resourcetype: Document
 title: Why are Governments needed?
 uid: 80ecb5d8-6d5a-1bc2-e7ad-e69e8eb73726

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cd9ac85-fda6-ce94-9367-2bea556c354b
 resourcetype: Document
 title: Currency, Cryptocurrencies, and Bitcoin
 uid: 4cf4c3e8-747b-4b05-5b08-9b0002815ad5

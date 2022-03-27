@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cd9ac85-fda6-ce94-9367-2bea556c354b
 resourcetype: Document
 title: ' P.R.O.M.I.S.E.  '
 uid: b390aa19-f487-51fb-774f-f97db096a0c1
