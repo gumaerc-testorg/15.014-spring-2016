@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides the list of cases, readings, and videos assigned
+  for each session of the course. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ uid: 3ccc7f98-8a39-9213-f64c-55bfa65c6dff
 
 The readings in this course are from the following three sources:
 
-\[MIM\] = Rigobon, Roberto. [_Managerial International Macroeconomics_ (PDF - 4.1MB)]({{< baseurl >}}/resources/mit15_014s16_chap1-12and14). (Preliminary and incomplete, March, 2016).
+\[MIM\] = Rigobon, Roberto. {{% resource_link 88b6dfe6-4c3d-8dca-ecec-f3af77757abc "_Managerial International Macroeconomics_ (PDF - 4.1MB)" %}}. (Preliminary and incomplete, March, 2016).
 
 \[FT\] = Feenstra, and Taylor. _International Economics_. Worth Publishers, 2014. ISBN: 9781429278423.
 
@@ -57,7 +59,7 @@ PROMISE (Part I)
 BBNN: Internal and External Adjustment
 {{< tdclose >}}
 {{< tdopen >}}
-\[MIM\] [Chapter 8: BBNN: Basic (PDF)]({{< baseurl >}}/resources/mit15_014s16_chapter8).
+\[MIM\] {{% resource_link 2ab20453-3af0-9602-dee9-d06124867a7a "Chapter 8: BBNN: Basic (PDF)" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +103,7 @@ Alfaro, Laura, Rafael Di Tella, et al. "[The U.S. Current Account Deficit](http:
 Shocks to BB and NN
 {{< tdclose >}}
 {{< tdopen >}}
-\[MIM\] [Chapter 9: BBNN: Shocks (PDF)]({{< baseurl >}}/resources/mit15_014s16_chapter9).
+\[MIM\] {{% resource_link 09a6a104-1b7c-8be1-232c-4955565b5381 "Chapter 9: BBNN: Shocks (PDF)" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Social Peace Line and Political Cycles
 
 Di Tella, Rafael M., and Eliseo Neuman. "[Menem and the Populist Tradition in Argentina](http://www.hbs.edu/faculty/Pages/item.aspx?num=27070)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–700–061, March, 2000.
 
-\[MIM\] [Chapter 11: BBNN: Social Peace (PDF)]({{< baseurl >}}/resources/mit15_014s16_chapter11).
+\[MIM\] {{% resource_link debe183b-6ab6-20db-61bb-b2539c5119b4 "Chapter 11: BBNN: Social Peace (PDF)" %}}.
 
 
 {{< tdclose >}}
@@ -131,7 +133,7 @@ Di Tella, Rafael M., and Eliseo Neuman. "[Menem and the Populist Tradition in Ar
 Environmental Restriction Line
 {{< tdclose >}}
 {{< tdopen >}}
-\[MIM\] [Chapter 12: BBNN: Sustainability (PDF)]({{< baseurl >}}/resources/mit15_014s16_chapter12).
+\[MIM\] {{% resource_link bda191c2-40cb-0394-b86b-6d5037f8c6e1 "Chapter 12: BBNN: Sustainability (PDF)" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +149,7 @@ Offshoring Exercise
 
 Yoffie, David B., and Heather A. Hazard. "[New Theories of International Trade](http://www.hbs.edu/faculty/Pages/item.aspx?num=11545)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–390–001, July, 1989.
 
-\[MIM\] [Chapter 14: Trade: Comparative Advantages (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15_014s16_chapter14).
+\[MIM\] {{% resource_link c7f9f9e0-962f-c5fd-635a-e263da5dfe2e "Chapter 14: Trade: Comparative Advantages (PDF - 1.2MB)" %}}.
 
 ### Recommended
 
