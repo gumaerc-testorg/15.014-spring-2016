@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of course notes and lecture notes
+  from selected sessions.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8cd9ac85-fda6-ce94-9367-2bea556c354b
 ---
@@ -36,7 +41,7 @@ LECTURE NOTES
 PROMISE (Part I)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1: PROMISE (PDF)]({{< baseurl >}}/resources/mit15_014s16_l1promise)
+{{% resource_link b390aa19-f487-51fb-774f-f97db096a0c1 "Lecture 1: PROMISE (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +101,7 @@ Notes not available
 Social Peace Line and Political Cycles
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6: BBNN Argentina (PDF - 1.1MB)]({{< baseurl >}}/resources/mit15_014s16_l6argentina)
+{{% resource_link ea0f28dd-3ed4-eb5c-eaf6-112057c71cd0 "Lecture 6: BBNN Argentina (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +125,7 @@ Notes not available
 Offshoring Exercise
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8: BBNN Offshoring (PDF)]({{< baseurl >}}/resources/mit15_014s16_l8offshoring)
+{{% resource_link 46828444-9316-0547-c7d1-f1f75188e9de "Lecture 8: BBNN Offshoring (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ Notes not available
 Market Faillure: Public Goods: Social Security
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12: Social Security (PDF)]({{< baseurl >}}/resources/mit15_014s16_l12socialsecu)
+{{% resource_link 80ecb5d8-6d5a-1bc2-e7ad-e69e8eb73726 "Lecture 12: Social Security (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ Market Faillure: Public Goods: Social Security
 Market Faillure: Public Choice: Democracy
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13: Choice (PDF)]({{< baseurl >}}/resources/mit15_014s16_l13choice)
+{{% resource_link ed8e5637-0bfc-803e-1e37-10e22b7a0d7d "Lecture 13: Choice (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +215,7 @@ Notes not available
 Market Faillure: Unaceptable Outcomes: Poverty and Inequality
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15: Income Inequality (PDF - 2.4MB)]({{< baseurl >}}/resources/mit15_014s16_l15inequality)
+{{% resource_link 436a8e92-c954-7d3e-61f6-0ca077d8f2bc "Lecture 15: Income Inequality (PDF - 2.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +233,7 @@ Market Faillure: Unaceptable Outcomes: Poverty and Inequality
 New Technologies: Cryptocurrencies
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16: BitCoin (PDF - 2.8MB)]({{< baseurl >}}/resources/mit15_014s16_l16bitcoin)
+{{% resource_link 4cf4c3e8-747b-4b05-5b08-9b0002815ad5 "Lecture 16: BitCoin (PDF - 2.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
