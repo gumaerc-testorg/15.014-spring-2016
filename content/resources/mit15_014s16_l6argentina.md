@@ -5,6 +5,7 @@ file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ' BBNN: Shocks'
 uid: ea0f28dd-3ed4-eb5c-eaf6-112057c71cd0
 ---
 A lecture about shocks in the context of macro- and international economics.
-

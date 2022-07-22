@@ -7,6 +7,7 @@ file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Chapter 12: "BBNN: Sustainability," Managerial International Macroeconom
 uid: bda191c2-40cb-0394-b86b-6d5037f8c6e1
 ---
 Chapter 12 of Roberto Rigobon's book, Managerial International Macroeconomics. Topics in this book chapter include: environmental sustainability, Kyoto's triangle, changes in consumption, changes in production, emerging markets
-

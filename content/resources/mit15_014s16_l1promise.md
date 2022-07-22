@@ -6,6 +6,7 @@ file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ' P.R.O.M.I.S.E.  '
 uid: b390aa19-f487-51fb-774f-f97db096a0c1
 ---
 Lecture presentation on the principles of environmental sustainability, implementation, conflict across dimensions, management, and planning.
-

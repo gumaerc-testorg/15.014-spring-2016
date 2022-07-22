@@ -7,6 +7,7 @@ file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Chapter 8: BBNN: Basic Model '
 uid: 2ab20453-3af0-9602-dee9-d06124867a7a
 ---
 Chapter 8 of Roberto Rigobon's book, Managerial International Macroeconomics. Topics in this book chapter include: the BBNN model of disequilibrium, the diagnostic, the adjustment process, and application to the crisis in Spain.
-

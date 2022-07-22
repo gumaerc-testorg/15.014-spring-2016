@@ -7,6 +7,7 @@ file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Chapter 14: "Trade: Comparative Advantages," Managerial International Ma
 uid: c7f9f9e0-962f-c5fd-635a-e263da5dfe2e
 ---
 Chapter 14 of ROberto Rigobon's book, Managerial International Macroeconomics. Topics in this book chapter include: free trade, fair trade, specialization, uncertainty, comparative advantage, standard of living
-

@@ -7,6 +7,7 @@ file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Chapter 11: "BBNN: Social Peace," Managerial International Macroeconomic
 uid: debe183b-6ab6-20db-61bb-b2539c5119b4
 ---
 Chapter 11 of Roberto Rigobon's book, Managerial International Macroeconomics. Topics in this book chapter include: social and political sustainability, the Latin triangle, shocks to the SP line and Europe's debt in 2011
-

@@ -6,6 +6,7 @@ file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Currency, Cryptocurrencies, and Bitcoin
 uid: 4cf4c3e8-747b-4b05-5b08-9b0002815ad5
 ---
 A lecture about currency, cryptocurrencies, and bitcoin in the context of macro- and international economics.
-

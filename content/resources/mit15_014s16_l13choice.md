@@ -6,6 +6,7 @@ file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Why are Governments needed?
 uid: ed8e5637-0bfc-803e-1e37-10e22b7a0d7d
 ---
 A lecture about public goods, public choice and the voting paradox. Part 2 of 2. 
-

@@ -6,6 +6,7 @@ file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ' Income Inequality'
 uid: 436a8e92-c954-7d3e-61f6-0ca077d8f2bc
 ---
 A lecture about income inequality in the context of macro- and international economics.
-
