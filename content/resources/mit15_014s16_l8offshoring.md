@@ -5,6 +5,7 @@ description: 'A lecture about offshoring practices of manufacturing and services
   Chile, France, Japan, Czech Republic, Italy, Angola, China, Republic of Korea, Germany,
   Singapore'
 file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/4682844493160547c7d1f1f75188e9de_MIT15_014S16_L8Offshoring.pdf
+file_size: 204852
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
