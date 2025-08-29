@@ -3,7 +3,7 @@ content_type: resource
 description: 'Chapter 12 of Roberto Rigobon''s book, Managerial International Macroeconomics.
   Topics in this book chapter include: environmental sustainability, Kyoto''s triangle,
   changes in consumption, changes in production, emerging markets'
-file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/bda191c240cb0394b86b6d5037f8c6e1_MIT15_014S16_Chapter12.pdf
+file: /ol-ocw-studio-app/courses/15-014-applied-macro-and-international-economics-ii-spring-2016/bda191c240cb0394b86b6d5037f8c6e1_MIT15_014S16_Chapter12.pdf
 file_size: 213057
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'Chapter 14 of ROberto Rigobon''s book, Managerial International Macroeconomics.
   Topics in this book chapter include: free trade, fair trade, specialization, uncertainty,
   comparative advantage, standard of living'
-file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/c7f9f9e0962fc5fd635ae263da5dfe2e_MIT15_014S16_Chapter14.pdf
+file: /ol-ocw-studio-app/courses/15-014-applied-macro-and-international-economics-ii-spring-2016/c7f9f9e0962fc5fd635ae263da5dfe2e_MIT15_014S16_Chapter14.pdf
 file_size: 1106443
 file_type: application/pdf
 learning_resource_types:
