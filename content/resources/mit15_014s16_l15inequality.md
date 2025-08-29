@@ -2,7 +2,7 @@
 content_type: resource
 description: A lecture about income inequality in the context of macro- and international
   economics.
-file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/436a8e92c9547d3e61f60ca077d8f2bc_MIT15_014S16_L15Inequality.pdf
+file: /ol-ocw-studio-app/courses/15-014-applied-macro-and-international-economics-ii-spring-2016/436a8e92c9547d3e61f60ca077d8f2bc_MIT15_014S16_L15Inequality.pdf
 file_size: 2502087
 file_type: application/pdf
 learning_resource_types:

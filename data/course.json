@@ -50,9 +50,10 @@
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "b938c421-db4b-4568-bc39-b84cdec8bdf2",
   "site_short_id": "15.014-spring-2016",
+  "site_url_path": "courses/15-014-applied-macro-and-international-economics-ii-spring-2016",
   "title": "Course Metadata"
 }
