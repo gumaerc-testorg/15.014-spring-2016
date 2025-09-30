@@ -18,35 +18,35 @@ Every question should be answered at most in one page, except for the Argentina 
 Case Question 1
 ---------------
 
-Case: "[U.S. Current Account Deficit](http://www.hbs.edu/faculty/Pages/item.aspx?num=32498)," HBS 9706002.
+Case: "{{% resource_link "fad37d98-2a00-424b-9e15-cc11d95d7832" "U.S. Current Account Deficit" %}}," HBS 9706002.
 
 Is the US sustainable? Find in trading economics the CA and Wage Changes in any of the last three years and do a BBNN diagnostic!
 
 Case Question 2
 ---------------
 
-Case: "[Menem and the Populist Tradition in Argentina](http://www.hbs.edu/faculty/Pages/item.aspx?num=27070)," HBS 9700061.
+Case: "{{% resource_link "a69308e3-0cd3-4aab-b99f-553425ed8282" "Menem and the Populist Tradition in Argentina" %}}," HBS 9700061.
 
 Explain 3 events from the case (such as devaluations, policy choices, growth, change in export prices, etc.). Do the diagnostic, and explain the impact using the BBNN.
 
 Case Question 3
 ---------------
 
-Case: "[New Theories of International Trade](http://www.hbs.edu/faculty/Pages/item.aspx?num=11545)," HBS 9390001.
+Case: "{{% resource_link "5423ba43-2011-4f52-aa07-5366158237ec" "New Theories of International Trade" %}}," HBS 9390001.
 
 Should UK remain in the European Union? (yes, no) What are the advantages of Protection?
 
 Case Question 4
 ---------------
 
-Case: "[Reforming Social Security Around the World](https://hbr.org/product/reforming-social-security-around-the-world/KEL493-HCB-ENG)," Kellogg KEL493.
+Case: "{{% resource_link "ad57cd28-9931-4f2e-a130-f28863f3b6c1" "Reforming Social Security Around the World" %}}," Kellogg KEL493.
 
 Answer for one country only: How would you change the social security system in (US, France, or Japan)?
 
 Case Question 5
 ---------------
 
-Case: "[A Framework to Think About Pollution](https://hbr.org/product/a-framework-to-think-about-pollution-externalities-pollution-taxes-and-cap-and-trade/UV5687-PDF-ENG)," Darden UV5687.
+Case: "{{% resource_link "640edeb4-4678-4b0e-b113-fba76315c85c" "A Framework to Think About Pollution" %}}," Darden UV5687.
 
 Comment the following Statement: Carbon Tax Markets have the chance to solve the property rights problem that exists in CO2 emissions.
 
