@@ -71,7 +71,7 @@ BBNN: Internal and External Adjustment
 Short Run Adjustment: ASAD
 {{< tdclose >}}
 {{< tdopen >}}
-Rotemberg, Julio J. "{{% resource_link "c2cf779e-fecb-4fd8-99d4-425f71e9e3b6" "Japan: Betting on Inflation?" %}}" Harvard Business School Case. Harvard Business School Publishing. Case: 9–714–040, January, 2014.
+Rotemberg, Julio J. "[Japan: Betting on Inflation?](http://www.hbs.edu/faculty/Pages/item.aspx?num=46143)" Harvard Business School Case. Harvard Business School Publishing. Case: 9–714–040, January, 2014.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +85,7 @@ Automatic Adjustment and External Account Measurement
 {{< tdopen >}}
 
 
-Alfaro, Laura, Rafael Di Tella, et al. "{{% resource_link "fad37d98-2a00-424b-9e15-cc11d95d7832" "The U.S. Current Account Deficit" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–706–002, July, 2005.
+Alfaro, Laura, Rafael Di Tella, et al. "[The U.S. Current Account Deficit](http://www.hbs.edu/faculty/Pages/item.aspx?num=32498)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–706–002, July, 2005.
 
 ### Recommended
 
@@ -117,7 +117,7 @@ Social Peace Line and Political Cycles
 {{< tdopen >}}
 
 
-Di Tella, Rafael M., and Eliseo Neuman. "{{% resource_link "a69308e3-0cd3-4aab-b99f-553425ed8282" "Menem and the Populist Tradition in Argentina" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–700–061, March, 2000.
+Di Tella, Rafael M., and Eliseo Neuman. "[Menem and the Populist Tradition in Argentina](http://www.hbs.edu/faculty/Pages/item.aspx?num=27070)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–700–061, March, 2000.
 
 \[MIM\] {{% resource_link debe183b-6ab6-20db-61bb-b2539c5119b4 "Chapter 11: BBNN: Social Peace (PDF)" %}}.
 
@@ -147,7 +147,7 @@ Offshoring Exercise
 {{< tdopen >}}
 
 
-Yoffie, David B., and Heather A. Hazard. "{{% resource_link "5423ba43-2011-4f52-aa07-5366158237ec" "New Theories of International Trade" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–390–001, July, 1989.
+Yoffie, David B., and Heather A. Hazard. "[New Theories of International Trade](http://www.hbs.edu/faculty/Pages/item.aspx?num=11545)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–390–001, July, 1989.
 
 \[MIM\] {{% resource_link c7f9f9e0-962f-c5fd-635a-e263da5dfe2e "Chapter 14: Trade: Comparative Advantages (PDF - 1.2MB)" %}}.
 
@@ -173,7 +173,7 @@ Yoffie, David B., and Heather A. Hazard. "{{% resource_link "5423ba43-2011-4f52-
 Fish Banks and Pareto Efficiency
 {{< tdclose >}}
 {{< tdopen >}}
-Donald N. Stengel "{{% resource_link "346970a6-d425-4eac-aaf7-2e9490bb4223" "Managerial Economics- Concepts and Principles 8-Market Regulation" %}}."  Harvard Business Review. Harvard Business School Publishing. Case: BEP076, June 15, 2011.
+Donald N. Stengel "[Managerial Economics- Concepts and Principles 8-Market Regulation](https://www.iveycases.com/ProductView.aspx?id=55254)."  Harvard Business Review. Harvard Business School Publishing. Case: BEP076, June 15, 2011.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +217,7 @@ Market Faillure: Public Goods: Social Security
 {{< tdopen >}}
 
 
-Besanko, David, and Saahil Malik. "{{% resource_link "ad57cd28-9931-4f2e-a130-f28863f3b6c1" "Reforming Social Security Around the World" %}}." Harvard Business Review. Harvard Business School Publishing. Case: KEL493, March 25, 2010.
+Besanko, David, and Saahil Malik. "[Reforming Social Security Around the World](https://hbr.org/product/reforming-social-security-around-the-world/KEL493-HCB-ENG)." Harvard Business Review. Harvard Business School Publishing. Case: KEL493, March 25, 2010.
 
 \[JG\] Chapter 7: Public Goods: Problems and Solutions.
 
@@ -251,7 +251,7 @@ Market Faillure: Externalities: Lobsters and Taxes
 {{< tdopen >}}
 
 
-Debaere, Peter. "{{% resource_link "640edeb4-4678-4b0e-b113-fba76315c85c" "A Framework to Think About Pollution: Externalities, Pollution Taxes, and Cap and Trade" %}}." Harvard Business Review. Harvard Business School Publishing. Case: UV5687. April 26, 2011.
+Debaere, Peter. "[A Framework to Think About Pollution: Externalities, Pollution Taxes, and Cap and Trade](https://hbr.org/product/a-framework-to-think-about-pollution-externalities-pollution-taxes-and-cap-and-trade/UV5687-PDF-ENG)." Harvard Business Review. Harvard Business School Publishing. Case: UV5687. April 26, 2011.
 
 \[JG\] Chapter 5: Externalities: Problems and Solutions.
 
@@ -274,13 +274,13 @@ Market Faillure: Unaceptable Outcomes: Poverty and Inequality
 
 
 Krugman on Piketty:  
-Krugman, Paul. "{{% resource_link "7c3b2d28-f91e-4a53-845c-17c9679bdd28" "The Piketty Panic" %}}," _The New York Times_, April 24, 2014.
+Krugman, Paul. "[The Piketty Panic](http://www.nytimes.com/2014/04/25/opinion/krugman-the-piketty-panic.html?_r=0)," _The New York Times_, April 24, 2014.
 
 Solow on Piketty:  
 Solow, Robert M. "[Thomas Piketty Is Right](http://www.newrepublic.com/article/117429/capital-twenty- first-century-thomas-piketty-reviewed)." _New Republic_, April 2014.
 
 Summers on Piketty:  
-Summers, Lawrence H. "{{% resource_link "42e3cdc3-85e6-466e-a56c-24800dcb069d" "The Inequality Puzzle" %}}." _Democracy_, no. 33 (2014): 696.
+Summers, Lawrence H. "[The Inequality Puzzle](http://www.democracyjournal.org/33/the-inequality-puzzle.php?page=all)." _Democracy_, no. 33 (2014): 696.
 
 ### Recommended
 
@@ -308,7 +308,7 @@ New Technologies: Cryptocurrencies
 
 ### Video
 
-Khan Academy. "{{% resource_link "4bc8d351-7e7d-43cf-8df4-c93a2fb09267" "Bitcoin: What is it?" %}}" May 3, 2013.
+Khan Academy. "[Bitcoin: What is it?](http://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it)" May 3, 2013.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,7 +360,7 @@ Life through Others
 
 ### Video
 
-TEDx Talks. "{{% resource_link "1f84c832-750a-4e64-8c5b-fe16fe18a2d5" "How Will You Measure Your Life?" %}}" July 17, 2012.
+TEDx Talks. "[How Will You Measure Your Life?](http://tedxtalks.ted.com/video/TEDxBoston-Clay-Christensen-How)" July 17, 2012.
 {{< tdclose >}}
 
 {{< trclose >}}
